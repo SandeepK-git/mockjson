@@ -1,11 +1,14 @@
-{
-  "posts": [
+[
     {
-      "id": 1,
-      "title": "hello"
+      "id": "e1",
+      "title": "hello",
+      "amount": 200,
+      "date": "Aug 15, 2022"
+    },
+  {
+      "id": "e2",
+      "title": "Sandeep",
+      "amount": 100,
+      "date": "Aug 14, 2022"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+]
