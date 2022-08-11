@@ -12,5 +12,14 @@
           "amount": 100,
           "date": "Aug 14, 2022"
         }
-    ]
+    ],
+    "posts": [
+        {
+          "id": 1,
+          "title": "hello"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
 }
